@@ -9,7 +9,7 @@
     {
       "plan": "heroku-postgresql:standard-0",
       "options": {
-        "version": "15.3",
+        "version": "15",
         "extensions": "postgis"
       }
     }
